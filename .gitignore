@@ -1,0 +1,10 @@
+node_modules
+dist
+.DS_Store
+*.local
+
+UserSearch.solved.jsx
+
+interview-plan.md
+interviewer-solutions.md
+interviewer-notes.txt
